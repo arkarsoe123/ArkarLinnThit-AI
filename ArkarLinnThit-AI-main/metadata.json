@@ -1,0 +1,6 @@
+{
+  "name": "အာကာလင်းသစ် AI",
+  "description": "အာကာလင်းသစ် (Arkar Lin Thit) Next-Gen AI Assistant with Voice Wake-Word, System Controls, Dynamic Generative UI, Floating Popup, and AI Code Editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
